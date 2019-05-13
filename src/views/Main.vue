@@ -1,6 +1,6 @@
 <template>
-  <v-container>
-    <v-layout text-xs-center wrap>
+  <v-container grid-list-xl>
+    <v-layout text-xs-center row wrap>
       <v-flex xs12>
         <v-img :src="require('../assets/lita-prof-pic.jpg')" contain height="200"></v-img>
       </v-flex>
@@ -21,14 +21,5 @@
   </v-container>
 </template>
 
-<script>
-export default {
-  data() {
-    return {
-    };
-  },
-};
+<script src="./Main.js">
 </script>
-
-<style>
-</style>

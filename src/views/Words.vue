@@ -1,10 +1,10 @@
 <template>
-  <v-container>
+  <v-container grid-list-xl>
     <v-layout text-xs-center wrap>
       <v-flex xs12>
         <v-card>
           <v-card-title>
-            <div>My Wishes, You also can send your wishes!</div>
+            <h1 class="display-1">My Wishes, You also can send your wishes!</h1>
           </v-card-title>
 
           <v-card-text>
@@ -22,7 +22,7 @@
             <p class="body-2">Thank you be a part of my life. :)</p>
             <p class="body-2">Sincerely Yours,</p>
             <p class="body-2">Your Brother in Christ</p>
-            <p class="body-1">Bervianto Leo Pratama</p>
+            <p class="body-2 green--text">Bervianto Leo Pratama</p>
           </v-card-text>
         </v-card>
       </v-flex>
