@@ -857,15 +857,15 @@
     babel-loader "^8.0.5"
     webpack ">=4 < 4.29"
 
-"@vue/cli-plugin-eslint@^3.5.0":
-  version "3.5.0"
-  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-eslint/-/cli-plugin-eslint-3.5.0.tgz#c5529ace3925766ffb45d99f0fddcc019b0181b5"
-  integrity sha512-tt5vjx3gT4KjIcwwsNK1FrvJHw6DkK8PA81oGBH7ARgf6HHXB80ruufwmddEhpn5MNKCsbvLkkUnVPs6t9WRUw==
+"@vue/cli-plugin-eslint@^3.8.0":
+  version "3.8.0"
+  resolved "https://registry.yarnpkg.com/@vue/cli-plugin-eslint/-/cli-plugin-eslint-3.8.0.tgz#0402dfd3864b0224bceb264df89a4209000bb98c"
+  integrity sha512-18LDJmjH0DDw9T4+RbrSVk4xkF8t8RDRsEPJLPurno1YVJodIkQ6lqVu82faVgtvPyCoqiaicoTq/iwi1avoLQ==
   dependencies:
-    "@vue/cli-shared-utils" "^3.5.0"
+    "@vue/cli-shared-utils" "^3.8.0"
     babel-eslint "^10.0.1"
     eslint-loader "^2.1.2"
-    globby "^9.0.0"
+    globby "^9.2.0"
     webpack ">=4 < 4.29"
   optionalDependencies:
     eslint "^4.19.1"
@@ -933,7 +933,7 @@
     webpack-merge "^4.2.1"
     yorkie "^2.0.0"
 
-"@vue/cli-shared-utils@^3.5.0", "@vue/cli-shared-utils@^3.8.0":
+"@vue/cli-shared-utils@^3.8.0":
   version "3.8.0"
   resolved "https://registry.yarnpkg.com/@vue/cli-shared-utils/-/cli-shared-utils-3.8.0.tgz#e7e728164eb92bd9e205fcd08dae896ee79cba5a"
   integrity sha512-wn1L8pmQnotfftHOYm0VeXs2+cQTySd73uhWXwyO6pT0ehjqlY5c2RTipClmFF3Q+YCYjwlNpsV650F3l1tV8w==
@@ -4273,7 +4273,7 @@ globby@^7.1.1:
     pify "^3.0.0"
     slash "^1.0.0"
 
-globby@^9.0.0, globby@^9.2.0:
+globby@^9.2.0:
   version "9.2.0"
   resolved "https://registry.yarnpkg.com/globby/-/globby-9.2.0.tgz#fd029a706c703d29bdd170f4b6db3a3f7a7cb63d"
   integrity sha512-ollPHROa5mcxDEkwg6bPt3QbEf4pDQSNtd6JPL1YvOvAo/7/0VAm9TccUeoTmarjPw4pfUthSCqcyfNB1I3ZSg==
