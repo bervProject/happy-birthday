@@ -1,6 +1,6 @@
 <template>
   <v-container grid-list-xl>
-    <v-layout text-xs-center row wrap>
+    <v-layout text-center row wrap>
       <v-flex xs12>
         <v-img :src="require('../assets/lita-prof-pic.jpg')" contain height="200"></v-img>
       </v-flex>

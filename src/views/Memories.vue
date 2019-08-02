@@ -1,6 +1,6 @@
 <template>
   <v-container fluid grid-list-xl>
-    <v-layout row text-xs-center wrap>
+    <v-layout row text-center wrap>
       <v-flex xs12>
         <h1 class="display-3">Your Memories</h1>
       </v-flex>

@@ -1,6 +1,6 @@
 <template>
   <v-container grid-list-xl>
-    <v-layout text-xs-center wrap>
+    <v-layout text-center wrap>
       <v-flex xs12>
         <v-card>
           <v-card-title>
