@@ -5,9 +5,11 @@
   "scripts": {
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "lint": "vue-cli-service lint"
+    "lint": "vue-cli-service lint",
+    "fix-lint": "vue-cli-service lint --fix"
   },
   "dependencies": {
+    "sass": "^1.22.9",
     "vue": "^2.6.10",
     "vue-router": "^3.0.7",
     "vuetify": "^2.0.4",
@@ -24,7 +26,6 @@
     "babel-jest": "^23.6.0",
     "eslint": "^5.16.0",
     "eslint-plugin-vue": "^5.2.3",
-    "node-sass": "^4.12.0",
     "sass-loader": "^7.1.0",
     "stylus": "^0.54.5",
     "stylus-loader": "^3.0.1",
