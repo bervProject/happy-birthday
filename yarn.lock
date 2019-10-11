@@ -8761,10 +8761,10 @@ vm-browserify@^1.0.1:
   resolved "https://registry.yarnpkg.com/vm-browserify/-/vm-browserify-1.1.0.tgz#bd76d6a23323e2ca8ffa12028dc04559c75f9019"
   integrity sha512-iq+S7vZJE60yejDYM0ek6zg308+UZsdtPExWP9VZoCFCz1zkJoXFnAX7aZfd/ZwrkidzdUZL0C/ryW+JwAiIGw==
 
-vue-cli-plugin-vuetify@^1.0.0:
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/vue-cli-plugin-vuetify/-/vue-cli-plugin-vuetify-1.0.0.tgz#fbbaa1322a4f8d782a297c4a5d624f6a40eef823"
-  integrity sha512-h7wRu2WHvdY3j9zngY9DDz0pk8nSDHhQGOduCOFjIu8xS29gH/3cmb+NUmWvLMZSv3fd++BUMRqkEhBQwlbyPw==
+vue-cli-plugin-vuetify@^1.0.1:
+  version "1.0.1"
+  resolved "https://registry.yarnpkg.com/vue-cli-plugin-vuetify/-/vue-cli-plugin-vuetify-1.0.1.tgz#bef77be1d04d2c0f03f1771ebdcbb99f172dfe8a"
+  integrity sha512-Due6vvETiNY0MaRxa8aZnxLIQmPBU+l1hKmed3i/Ly6+kiUcSnNO3OdWt7LVL6nZ/SY71SxVk3at95ipnDe++Q==
   dependencies:
     shelljs "^0.8.3"
 
