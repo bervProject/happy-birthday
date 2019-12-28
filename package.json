@@ -26,7 +26,7 @@
     "babel-jest": "^24.9.0",
     "eslint": "^5.16.0",
     "eslint-plugin-import": "^2.19.1",
-    "eslint-plugin-vue": "^6.0.2",
+    "eslint-plugin-vue": "^6.1.1",
     "sass-loader": "^8.0.0",
     "stylus": "^0.54.7",
     "stylus-loader": "^3.0.2",
