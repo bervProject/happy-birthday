@@ -2,6 +2,15 @@
 
 Happy Birthday Page for my someone special. I very loved this pages ever. :D
 
+## Github Pages Setup
+
+You need to add PUBLIC_URL if you setup into Github Pages that not being root of domain. For example like this:
+
+```env
+env:
+  - PUBLIC_URL="/happy-birthday/"
+```
+
 ## LICENSE
 
 MIT
