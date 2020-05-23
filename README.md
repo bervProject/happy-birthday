@@ -1,6 +1,6 @@
 # happy-birthday
 
-Happy Birthday Page for my someone special. I very loved this pages ever. :D
+Happy Birthday Page for my someone special. I very love this pages forever. :D
 
 ## Github Pages Setup
 
