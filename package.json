@@ -11,7 +11,7 @@
   "dependencies": {
     "sass": "^1.26.8",
     "vue": "^2.6.11",
-    "vue-router": "^3.3.3",
+    "vue-router": "^3.3.4",
     "vuetify": "^2.3.0",
     "vuex": "^3.4.0"
   },
