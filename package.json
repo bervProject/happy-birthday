@@ -20,7 +20,7 @@
     "@vue/cli-plugin-babel": "^4.4.4",
     "@vue/cli-plugin-eslint": "^4.4.4",
     "@vue/cli-service": "^4.4.6",
-    "@vue/eslint-config-airbnb": "^5.0.2",
+    "@vue/eslint-config-airbnb": "^5.1.0",
     "@vue/test-utils": "1.0.3",
     "babel-eslint": "^10.1.0",
     "babel-jest": "^26.1.0",
