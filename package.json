@@ -9,7 +9,7 @@
     "fix-lint": "vue-cli-service lint --fix"
   },
   "dependencies": {
-    "sass": "^1.26.9",
+    "sass": "^1.26.10",
     "vue": "^2.6.11",
     "vue-router": "^3.3.4",
     "vuetify": "^2.3.3",
