@@ -6,5 +6,3 @@
   </v-app>
 </template>
 
-<script>
-</script>

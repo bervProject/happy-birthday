@@ -21,5 +21,3 @@
   </v-container>
 </template>
 
-<script src="./Main.js">
-</script>
