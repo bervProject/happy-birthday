@@ -26,7 +26,7 @@
     "@vue/cli-service": "^4.4.6",
     "@vue/test-utils": "1.0.3",
     "sass-loader": "^9.0.2",
-    "stylus": "^0.54.7",
+    "stylus": "^0.54.8",
     "stylus-loader": "^3.0.2",
     "typescript": "~3.9.7",
     "vue-cli-plugin-vuetify": "^2.0.6",
