@@ -9,7 +9,7 @@
     "fix-lint": "vue-cli-service lint --fix"
   },
   "dependencies": {
-    "sass": "^1.26.10",
+    "sass": "^1.26.11",
     "tslint-config-prettier": "^1.18.0",
     "vue": "^2.6.12",
     "vue-class-component": "^7.2.6",
